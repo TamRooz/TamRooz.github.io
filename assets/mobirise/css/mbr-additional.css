@@ -1630,3 +1630,65 @@ section.lazy-placeholder:after {
     margin: auto;
   }
 }
+.cid-rOZ9MowpCU {
+  padding-top: 30px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rOZ9MowpCU .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
+}
+.cid-rOZ9MowpCU .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
+}
+.cid-rOZ9MowpCU .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
+}
+.cid-rOZ9MowpCU .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
+}
+.cid-rOZ9MowpCU .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-rOZ9MowpCU .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-rOZ9MowpCU .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-rOZ9MowpCU .btn-social {
+  font-size: 20px;
+  border-radius: 50%;
+  padding: 0;
+  width: 44px;
+  height: 44px;
+  line-height: 44px;
+  text-align: center;
+  position: relative;
+  cursor: pointer;
+  border: none !important;
+}
+.cid-rOZ9MowpCU .btn-social i {
+  top: 0;
+  line-height: 44px;
+  width: 44px;
+}
+.cid-rOZ9MowpCU .btn-social + .btn {
+  margin-left: .1rem;
+}
+.cid-rOZ9MowpCU [class^="socicon-"]:before,
+.cid-rOZ9MowpCU [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-rOZ9MowpCU .btn {
+    font-size: 20px !important;
+  }
+}
